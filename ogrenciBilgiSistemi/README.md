@@ -1,0 +1,2 @@
+<h4> Course Sınıfına Sözlü notu kısmını girelim. q1,q2,q3 adında girilmiştir.
+ortalamaya etkisini her ders için isPass metodu altında hesaplanmıştır. sözlü notlarının da ortalamaya etkisi eklenmiştir.</h4>
